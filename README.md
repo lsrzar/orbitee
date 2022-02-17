@@ -1,5 +1,5 @@
 # orbitee
-> Explorá tus alrededores en todo momento.
+> Explorá tus alrededores en todo momento, en todo lugar.
 
 Hecho con:
 
