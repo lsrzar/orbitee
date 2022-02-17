@@ -1,7 +1,13 @@
 import React from 'react';
 
-const Places = () => {
-  return <div>Places</div>;
+interface Props {
+  place: {
+    name: string;
+  };
+}
+
+const Places: React.FC<Props> = ({ place }) => {
+  return <div>{place.name}</div>;
 };
 
 export default Places;
